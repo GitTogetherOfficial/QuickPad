@@ -17,6 +17,7 @@ namespace QuickPad
             debugWindow = new DebugWindow();
             settingsWindow = new SettingsWindow();
             infoWindow = new InfoWindow();
+            ;
         }
 
         private void closeBtn_Click(object sender, EventArgs e)
