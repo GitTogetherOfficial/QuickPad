@@ -17,3 +17,23 @@ C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.
 C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.QuickPadMain.resources
 C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.SettingsWindow.resources
 C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.InfoWindow.resources
+G:\app de creamy\QuickPad\bin\Debug\net8.0-windows\QuickPad.exe
+G:\app de creamy\QuickPad\bin\Debug\net8.0-windows\QuickPad.deps.json
+G:\app de creamy\QuickPad\bin\Debug\net8.0-windows\QuickPad.runtimeconfig.json
+G:\app de creamy\QuickPad\bin\Debug\net8.0-windows\QuickPad.dll
+G:\app de creamy\QuickPad\bin\Debug\net8.0-windows\QuickPad.pdb
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.DebugWindow.resources
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.InfoWindow.resources
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.QuickPadMain.resources
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.SettingsWindow.resources
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.csproj.GenerateResource.cache
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.GeneratedMSBuildEditorConfig.editorconfig
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.AssemblyInfoInputs.cache
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.AssemblyInfo.cs
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.csproj.CoreCompileInputs.cache
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.sourcelink.json
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.dll
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\refint\QuickPad.dll
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.pdb
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\QuickPad.genruntimeconfig.cache
+G:\app de creamy\QuickPad\obj\Debug\net8.0-windows\ref\QuickPad.dll
