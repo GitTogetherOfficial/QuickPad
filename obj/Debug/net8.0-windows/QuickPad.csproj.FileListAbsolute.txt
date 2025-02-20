@@ -17,3 +17,4 @@ C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.
 C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.QuickPadMain.resources
 C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.SettingsWindow.resources
 C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.InfoWindow.resources
+C:\Users\lotfi\source\repos\QuickPad\QuickPad\obj\Debug\net8.0-windows\QuickPad.sourcelink.json
