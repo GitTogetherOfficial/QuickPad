@@ -30,7 +30,9 @@
         {
             hideBtn = new Button();
             settingsTitle = new Label();
+            font = new NumericUpDown();
             label1 = new Label();
+            ((System.ComponentModel.ISupportInitialize)font).BeginInit();
             SuspendLayout();
             // 
             // hideBtn
@@ -42,7 +44,7 @@
             hideBtn.FlatStyle = FlatStyle.Flat;
             hideBtn.Font = new Font("Segoe UI Black", 13.8F, FontStyle.Bold);
             hideBtn.ForeColor = Color.White;
-            hideBtn.Location = new Point(252, 12);
+            hideBtn.Location = new Point(552, 12);
             hideBtn.Name = "hideBtn";
             hideBtn.Size = new Size(36, 44);
             hideBtn.TabIndex = 4;
@@ -54,21 +56,29 @@
             // 
             settingsTitle.AutoSize = true;
             settingsTitle.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            settingsTitle.Location = new Point(83, 9);
+            settingsTitle.Location = new Point(248, 15);
             settingsTitle.Name = "settingsTitle";
             settingsTitle.Size = new Size(134, 41);
             settingsTitle.TabIndex = 5;
             settingsTitle.Text = "Settings";
             // 
+            // font
+            // 
+            font.Location = new Point(121, 89);
+            font.Name = "font";
+            font.Size = new Size(150, 27);
+            font.TabIndex = 6;
+            font.Value = new decimal(new int[] { 10, 0, 0, 0 });
+            // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI Light", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(59, 78);
+            label1.Font = new Font("Segoe UI Semilight", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Location = new Point(23, 84);
             label1.Name = "label1";
-            label1.Size = new Size(179, 25);
-            label1.TabIndex = 6;
-            label1.Text = "Not available on beta!";
+            label1.Size = new Size(92, 28);
+            label1.TabIndex = 7;
+            label1.Text = "Text Size :";
             // 
             // SettingsWindow
             // 
@@ -76,14 +86,16 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Black;
             BackgroundImageLayout = ImageLayout.None;
-            ClientSize = new Size(300, 150);
+            ClientSize = new Size(600, 300);
             Controls.Add(label1);
+            Controls.Add(font);
             Controls.Add(settingsTitle);
             Controls.Add(hideBtn);
             ForeColor = Color.White;
             FormBorderStyle = FormBorderStyle.None;
             Name = "SettingsWindow";
             Text = "QuickPad (v.beta) - Settings";
+            ((System.ComponentModel.ISupportInitialize)font).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -92,6 +104,7 @@
 
         private Button hideBtn;
         private Label settingsTitle;
+        private NumericUpDown font;
         private Label label1;
     }
 }

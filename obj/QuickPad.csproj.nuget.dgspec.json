@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\app de creamy\\QuickPad\\QuickPad.csproj": {}
+    "C:\\Users\\lotfi\\source\\repos\\QuickPad\\QuickPad\\QuickPad.csproj": {}
   },
   "projects": {
-    "G:\\app de creamy\\QuickPad\\QuickPad.csproj": {
+    "C:\\Users\\lotfi\\source\\repos\\QuickPad\\QuickPad\\QuickPad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\app de creamy\\QuickPad\\QuickPad.csproj",
+        "projectUniqueName": "C:\\Users\\lotfi\\source\\repos\\QuickPad\\QuickPad\\QuickPad.csproj",
         "projectName": "QuickPad",
-        "projectPath": "G:\\app de creamy\\QuickPad\\QuickPad.csproj",
-        "packagesPath": "C:\\Users\\sylvain\\.nuget\\packages\\",
-        "outputPath": "G:\\app de creamy\\QuickPad\\obj\\",
+        "projectPath": "C:\\Users\\lotfi\\source\\repos\\QuickPad\\QuickPad\\QuickPad.csproj",
+        "packagesPath": "C:\\Users\\lotfi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lotfi\\source\\repos\\QuickPad\\QuickPad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sylvain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lotfi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

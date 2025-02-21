@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickPad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a83f366166a45e1ef741f29155868dcf0be0db8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c105979e91f8dfd70ef7dabed318a3bd30582fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickPad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickPad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

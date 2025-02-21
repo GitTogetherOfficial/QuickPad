@@ -163,6 +163,7 @@
             inputText.BackColor = Color.Black;
             inputText.BorderStyle = BorderStyle.FixedSingle;
             inputText.ForeColor = Color.White;
+            inputText.ImeMode = ImeMode.Off;
             inputText.Location = new Point(232, 79);
             inputText.Name = "inputText";
             inputText.Size = new Size(556, 359);
